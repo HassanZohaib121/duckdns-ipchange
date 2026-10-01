@@ -64,7 +64,7 @@ On Windows, the usual requirements include:
 Clone the repository and install dependencies:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/HassanZohaib121/duckdns-ipchange
 cd duckdns-ipchanger
 npm install
 ```
